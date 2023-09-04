@@ -1,0 +1,18 @@
+Student Name : aaa
+Student Roll No. : 13
+Subject Selected : DAA
+OverAll Feedback : 0.5
+1. Teacher is prepared for class : Strongly Disagree
+2. Teacher knows His/Her Subject : Strongly Disagree
+3. Teacher is Organised and neet : Strongly Disagree
+4. Teacher Plans class time and Assignments : Strongly Disagree
+5. Teacher is flexible : Strongly Disagree
+6. Teacher is clear about assignments and test : Strongly Disagree
+7. Teacher allows you to be active in the classroom : Strongly Disagree
+8. Teacher manages the time well : Strongly Disagree
+9. Teacher returns homework in a timely manner : Strongly Disagree
+10. Teacher grades Fairly : Strongly Disagree
+11. I have learned a lot from the teacher about this subject : Strongly Disagree
+12. Teacher gives good feedback on projects : Strongly Disagree
+13. Teacher is creative in developing lesson plans : Strongly Disagree
+14. Teacher encorages students to speak up : Strongly Disagree
